@@ -12,6 +12,6 @@
 # [IMDB data analysis](https://github.com/IslamAbdelrahman00/IMDb_movie_data):
 - This project assess and cleans and then analyses and visualizes data set contains information about 10,000 movies collected from The Movie Database (IMDb), including user ratings and revenue.
 
-#[Big Mart sales analysis](https://github.com/IslamAbdelrahman00/Big-Mart-sales-analysis):
--his project assess and cleans and then analyses and visualizes sales data of Big Mart supermarket for 1559 products across 10 stores in different cities. Also, certain attributes of each product and store have been defined. 
+# [Big Mart sales analysis](https://github.com/IslamAbdelrahman00/Big-Mart-sales-analysis):
+- this project assess and cleans and then analyses and visualizes sales data of Big Mart supermarket for 1559 products across 10 stores in different cities. Also, certain attributes of each product and store have been defined. 
 
